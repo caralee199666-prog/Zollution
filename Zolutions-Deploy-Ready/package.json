@@ -1,0 +1,20 @@
+{
+  "name": "zolutions-marketplace",
+  "version": "2.0.0",
+  "description": "Zolutions - Premium Marketplace for Digital Tools, AI Resources & No-Code Solutions with Flutterwave Integration & Automated Email Delivery",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "zolutions",
+    "marketplace",
+    "flutterwave",
+    "digital-downloads",
+    "ai-tools",
+    "no-code"
+  ],
+  "author": "Zolutions",
+  "license": "ISC"
+}
